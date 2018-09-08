@@ -1,1 +1,1 @@
-# 菜鸟试试GitHub是什么鬼
+# canvas 实现flappy_bird
